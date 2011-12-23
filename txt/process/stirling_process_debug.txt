@@ -1,0 +1,12 @@
+siliconCap.gif 1 1 displacercap.txt ディスプレーサキャップ
+steelwool1.jpg 1 3 displacerpipe.txt ディスプレーサピン
+NoBBdisp.gif 2 1 displacer.txt ディスプレーサ組み立て図
+testTubeHolder.jpg 3 3 displacer_holder.txt ディスプレーサ＋マウンタ
+holder.gif 2 3  holder.txt マウンタ
+piston+holder.jpg 1 7 piston.txt パワーピストン
+flywheelaxis.jpg 1 9 flywheel.txt フライホイール
+flywheel+plate.gif 1 11 chassis.txt シャーシ
+makeCrunkAss.gif 1 13 crunk.txt クランクシャフト
+crunkpin_position.gif 1 15 crunkpin.txt クランクピン
+conrod.jpg 1 17 conrod.txt コンロッド
+dispLink1.gif 1 19 conrod_disp.txt コンロッド（ディスプレーサ側）
